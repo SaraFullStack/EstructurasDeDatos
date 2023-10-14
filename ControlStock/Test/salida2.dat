@@ -1,0 +1,1086 @@
+unidades pizza: Error: el producto nunca ha estado en stock
+venta brussels_sprouts 99: Venta fallida: el producto nunca ha estado en stock
+venta fig 31: Venta fallida: el producto nunca ha estado en stock
+compra dill 16: Compra realizada, stock actualizado.
+venta dill 71: Venta fallida: no hay suficientes unidades del producto para vender
+unidades dill: El producto esta en stock y hay 16 unidades
+compra thyme 69: Compra realizada, stock actualizado.
+unidades thyme: El producto esta en stock y hay 69 unidades
+listado: (dill,16) (thyme,69)
+unidades thyme: El producto esta en stock y hay 69 unidades
+listado: (dill,16) (thyme,69)
+listado: (dill,16) (thyme,69)
+compra mustard 98: Compra realizada, stock actualizado.
+listado w: 
+unidades thyme: El producto esta en stock y hay 69 unidades
+venta mustard 2: Venta realizada, stock actualizado.
+listado: (dill,16) (mustard,96) (thyme,69)
+compra tarragon 56: Compra realizada, stock actualizado.
+unidades dill: El producto esta en stock y hay 16 unidades
+compra lobster 29: Compra realizada, stock actualizado.
+unidades lobster: El producto esta en stock y hay 29 unidades
+venta lobster 98: Venta fallida: no hay suficientes unidades del producto para vender
+unidades tarragon: El producto esta en stock y hay 56 unidades
+compra cider 86: Compra realizada, stock actualizado.
+listado: (cider,86) (dill,16) (lobster,29) (mustard,96) (tarragon,56) (thyme,69)
+compra sugar 62: Compra realizada, stock actualizado.
+venta sugar 32: Venta realizada, stock actualizado.
+venta cider 36: Venta realizada, stock actualizado.
+venta sugar 46: Venta fallida: no hay suficientes unidades del producto para vender
+unidades potato: Error: el producto nunca ha estado en stock
+venta thyme 95: Venta fallida: no hay suficientes unidades del producto para vender
+venta lobster 69: Venta fallida: no hay suficientes unidades del producto para vender
+compra hot_chocolate 89: Compra realizada, stock actualizado.
+venta mustard 4: Venta realizada, stock actualizado.
+listado: (cider,50) (dill,16) (hot_chocolate,89) (lobster,29) (mustard,92) (sugar,30) (tarragon,56) (thyme,69)
+compra baked_potatoes 92: Compra realizada, stock actualizado.
+venta baked_potatoes 85: Venta realizada, stock actualizado.
+unidades lobster: El producto esta en stock y hay 29 unidades
+compra champagne 14: Compra realizada, stock actualizado.
+unidades dill: El producto esta en stock y hay 16 unidades
+venta sugar 46: Venta fallida: no hay suficientes unidades del producto para vender
+compra artichoke 69: Compra realizada, stock actualizado.
+compra basil 21: Compra realizada, stock actualizado.
+compra snail 31: Compra realizada, stock actualizado.
+venta snail 37: Venta fallida: no hay suficientes unidades del producto para vender
+compra pepper 53: Compra realizada, stock actualizado.
+unidades champagne: El producto esta en stock y hay 14 unidades
+venta cider 64: Venta fallida: no hay suficientes unidades del producto para vender
+compra peach 3: Compra realizada, stock actualizado.
+unidades thyme: El producto esta en stock y hay 69 unidades
+compra tangerine 13: Compra realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 69 unidades
+compra salad_dressing 75: Compra realizada, stock actualizado.
+venta hot_chocolate 44: Venta realizada, stock actualizado.
+compra ham 28: Compra realizada, stock actualizado.
+listado a: (artichoke,69)
+unidades pepper: El producto esta en stock y hay 53 unidades
+unidades peach: El producto esta en stock y hay 3 unidades
+unidades lobster: El producto esta en stock y hay 29 unidades
+compra vanilla 98: Compra realizada, stock actualizado.
+venta tarragon 53: Venta realizada, stock actualizado.
+venta champagne 90: Venta fallida: no hay suficientes unidades del producto para vender
+compra mango 36: Compra realizada, stock actualizado.
+compra pomegranate 65: Compra realizada, stock actualizado.
+venta thyme 44: Venta realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 69 unidades
+listado: (artichoke,69) (baked_potatoes,7) (basil,21) (champagne,14) (cider,50) (dill,16) (ham,28) (hot_chocolate,45) (lobster,29) (mango,36) (mustard,92) (peach,3) (pepper,53) (pomegranate,65) (salad_dressing,75) (snail,31) (sugar,30) (tangerine,13) (tarragon,3) (thyme,25) (vanilla,98)
+compra tea 1: Compra realizada, stock actualizado.
+compra tuna 8: Compra realizada, stock actualizado.
+compra beans 52: Compra realizada, stock actualizado.
+venta thyme 90: Venta fallida: no hay suficientes unidades del producto para vender
+compra cinnamon 28: Compra realizada, stock actualizado.
+compra cinnamon 94: Compra realizada, stock actualizado.
+venta thyme 27: Venta fallida: no hay suficientes unidades del producto para vender
+listado e: 
+listado u: 
+listado y: 
+unidades tea: El producto esta en stock y hay 1 unidad
+compra artichoke 41: Compra realizada, stock actualizado.
+venta ham 29: Venta fallida: no hay suficientes unidades del producto para vender
+venta mustard 21: Venta realizada, stock actualizado.
+unidades ham: El producto esta en stock y hay 28 unidades
+venta lobster 90: Venta fallida: no hay suficientes unidades del producto para vender
+unidades tea: El producto esta en stock y hay 1 unidad
+compra watercress 43: Compra realizada, stock actualizado.
+listado v: (vanilla,98)
+listado: (artichoke,110) (baked_potatoes,7) (basil,21) (beans,52) (champagne,14) (cider,50) (cinnamon,122) (dill,16) (ham,28) (hot_chocolate,45) (lobster,29) (mango,36) (mustard,71) (peach,3) (pepper,53) (pomegranate,65) (salad_dressing,75) (snail,31) (sugar,30) (tangerine,13) (tarragon,3) (tea,1) (thyme,25) (tuna,8) (vanilla,98) (watercress,43)
+unidades baked_potatoes: El producto esta en stock y hay 7 unidades
+unidades tea: El producto esta en stock y hay 1 unidad
+unidades champagne: El producto esta en stock y hay 14 unidades
+listado z: 
+unidades watercress: El producto esta en stock y hay 43 unidades
+compra macaroni 63: Compra realizada, stock actualizado.
+unidades tarragon: El producto esta en stock y hay 3 unidades
+unidades pomegranate: El producto esta en stock y hay 65 unidades
+compra tuna 59: Compra realizada, stock actualizado.
+venta sugar 23: Venta realizada, stock actualizado.
+unidades spaghetti: Error: el producto nunca ha estado en stock
+compra eel 62: Compra realizada, stock actualizado.
+compra vinegar 56: Compra realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 110 unidades
+compra cod 24: Compra realizada, stock actualizado.
+listado: (artichoke,110) (baked_potatoes,7) (basil,21) (beans,52) (champagne,14) (cider,50) (cinnamon,122) (cod,24) (dill,16) (eel,62) (ham,28) (hot_chocolate,45) (lobster,29) (macaroni,63) (mango,36) (mustard,71) (peach,3) (pepper,53) (pomegranate,65) (salad_dressing,75) (snail,31) (sugar,7) (tangerine,13) (tarragon,3) (tea,1) (thyme,25) (tuna,67) (vanilla,98) (vinegar,56) (watercress,43)
+unidades ham: El producto esta en stock y hay 28 unidades
+listado q: 
+unidades mango: El producto esta en stock y hay 36 unidades
+venta tomato_sauce 39: Venta fallida: el producto nunca ha estado en stock
+compra eel 83: Compra realizada, stock actualizado.
+unidades celery: Error: el producto nunca ha estado en stock
+compra juice 96: Compra realizada, stock actualizado.
+listado w: (watercress,43)
+unidades trout: Error: el producto nunca ha estado en stock
+unidades artichoke: El producto esta en stock y hay 110 unidades
+compra banana 73: Compra realizada, stock actualizado.
+compra octopus 16: Compra realizada, stock actualizado.
+compra salt 65: Compra realizada, stock actualizado.
+listado n: 
+unidades salt: El producto esta en stock y hay 65 unidades
+venta meatballs 24: Venta fallida: el producto nunca ha estado en stock
+compra coffee 11: Compra realizada, stock actualizado.
+unidades salt: El producto esta en stock y hay 65 unidades
+listado h: (ham,28) (hot_chocolate,45)
+venta vanilla 49: Venta realizada, stock actualizado.
+compra salmon 41: Compra realizada, stock actualizado.
+compra roastbeef 10: Compra realizada, stock actualizado.
+compra pink_lemonade 28: Compra realizada, stock actualizado.
+unidades chilli: Error: el producto nunca ha estado en stock
+compra salt 61: Compra realizada, stock actualizado.
+unidades watercress: El producto esta en stock y hay 43 unidades
+compra pear 23: Compra realizada, stock actualizado.
+venta juice 64: Venta realizada, stock actualizado.
+unidades salmon: El producto esta en stock y hay 41 unidades
+listado: (artichoke,110) (baked_potatoes,7) (banana,73) (basil,21) (beans,52) (champagne,14) (cider,50) (cinnamon,122) (cod,24) (coffee,11) (dill,16) (eel,145) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,36) (mustard,71) (octopus,16) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,10) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (sugar,7) (tangerine,13) (tarragon,3) (tea,1) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+unidades cinnamon: El producto esta en stock y hay 122 unidades
+compra strawberry 25: Compra realizada, stock actualizado.
+venta mango 18: Venta realizada, stock actualizado.
+unidades macaroni: El producto esta en stock y hay 63 unidades
+venta champagne 43: Venta fallida: no hay suficientes unidades del producto para vender
+venta mango 93: Venta fallida: no hay suficientes unidades del producto para vender
+unidades eel: El producto esta en stock y hay 145 unidades
+venta tangerine 52: Venta fallida: no hay suficientes unidades del producto para vender
+unidades lobster: El producto esta en stock y hay 29 unidades
+listado: (artichoke,110) (baked_potatoes,7) (banana,73) (basil,21) (beans,52) (champagne,14) (cider,50) (cinnamon,122) (cod,24) (coffee,11) (dill,16) (eel,145) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mustard,71) (octopus,16) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,10) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,1) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+compra beans 14: Compra realizada, stock actualizado.
+compra oyster 56: Compra realizada, stock actualizado.
+venta pink_lemonade 45: Venta fallida: no hay suficientes unidades del producto para vender
+compra roastbeef 11: Compra realizada, stock actualizado.
+venta artichoke 84: Venta realizada, stock actualizado.
+listado g: 
+compra cod 86: Compra realizada, stock actualizado.
+listado c: (champagne,14) (cider,50) (cinnamon,122) (cod,110) (coffee,11)
+venta artichoke 9: Venta realizada, stock actualizado.
+listado j: (juice,32)
+unidades pepper: El producto esta en stock y hay 53 unidades
+venta tea 43: Venta fallida: no hay suficientes unidades del producto para vender
+venta watercress 62: Venta fallida: no hay suficientes unidades del producto para vender
+compra tea 18: Compra realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,66) (champagne,14) (cider,50) (cinnamon,122) (cod,110) (coffee,11) (dill,16) (eel,145) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+compra grapes 14: Compra realizada, stock actualizado.
+unidades cod: El producto esta en stock y hay 110 unidades
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,66) (champagne,14) (cider,50) (cinnamon,122) (cod,110) (coffee,11) (dill,16) (eel,145) (grapes,14) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+listado k: 
+venta cod 1: Venta realizada, stock actualizado.
+venta artichoke 52: Venta fallida: no hay suficientes unidades del producto para vender
+compra blackberry 62: Compra realizada, stock actualizado.
+unidades salad_dressing: El producto esta en stock y hay 75 unidades
+unidades strawberry: El producto esta en stock y hay 25 unidades
+listado j: (juice,32)
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,66) (blackberry,62) (champagne,14) (cider,50) (cinnamon,122) (cod,109) (coffee,11) (dill,16) (eel,145) (grapes,14) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+venta cider 19: Venta realizada, stock actualizado.
+compra carrot 48: Compra realizada, stock actualizado.
+venta peach 72: Venta fallida: no hay suficientes unidades del producto para vender
+venta lobster 66: Venta fallida: no hay suficientes unidades del producto para vender
+unidades banana: El producto esta en stock y hay 73 unidades
+compra carrot 49: Compra realizada, stock actualizado.
+compra brine 3: Compra realizada, stock actualizado.
+venta asparagus 58: Venta fallida: el producto nunca ha estado en stock
+unidades dill: El producto esta en stock y hay 16 unidades
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,66) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (cider,31) (cinnamon,122) (cod,109) (coffee,11) (dill,16) (eel,145) (grapes,14) (ham,28) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+compra meatballs 34: Compra realizada, stock actualizado.
+compra ham 45: Compra realizada, stock actualizado.
+compra mashed_potatoes 59: Compra realizada, stock actualizado.
+listado c: (carrot,97) (champagne,14) (cider,31) (cinnamon,122) (cod,109) (coffee,11)
+listado r: (roastbeef,21)
+unidades pepper: El producto esta en stock y hay 53 unidades
+listado i: 
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,66) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (cider,31) (cinnamon,122) (cod,109) (coffee,11) (dill,16) (eel,145) (grapes,14) (ham,73) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mashed_potatoes,59) (meatballs,34) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,126) (snail,31) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+compra beans 100: Compra realizada, stock actualizado.
+venta beans 27: Venta realizada, stock actualizado.
+unidades thyme: El producto esta en stock y hay 25 unidades
+venta meatballs 95: Venta fallida: no hay suficientes unidades del producto para vender
+venta vanilla 51: Venta fallida: no hay suficientes unidades del producto para vender
+unidades peach: El producto esta en stock y hay 3 unidades
+compra mashed_potatoes 4: Compra realizada, stock actualizado.
+unidades tuna: El producto esta en stock y hay 67 unidades
+venta grapes 7: Venta realizada, stock actualizado.
+venta octopus 81: Venta fallida: no hay suficientes unidades del producto para vender
+venta snail 12: Venta realizada, stock actualizado.
+compra salt 66: Compra realizada, stock actualizado.
+compra chilli 92: Compra realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (chilli,92) (cider,31) (cinnamon,122) (cod,109) (coffee,11) (dill,16) (eel,145) (grapes,7) (ham,73) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+unidades lemonade: Error: el producto nunca ha estado en stock
+venta white_wine 37: Venta fallida: el producto nunca ha estado en stock
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (chilli,92) (cider,31) (cinnamon,122) (cod,109) (coffee,11) (dill,16) (eel,145) (grapes,7) (ham,73) (hot_chocolate,45) (juice,32) (lobster,29) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,53) (pink_lemonade,28) (pomegranate,65) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (tangerine,13) (tarragon,3) (tea,19) (thyme,25) (tuna,67) (vanilla,49) (vinegar,56) (watercress,43)
+compra clam 67: Compra realizada, stock actualizado.
+compra cumin 21: Compra realizada, stock actualizado.
+compra swordfish 80: Compra realizada, stock actualizado.
+venta tea 95: Venta fallida: no hay suficientes unidades del producto para vender
+unidades clam: El producto esta en stock y hay 67 unidades
+venta artichoke 86: Venta fallida: no hay suficientes unidades del producto para vender
+venta pepper 2: Venta realizada, stock actualizado.
+compra thyme 72: Compra realizada, stock actualizado.
+compra plum 59: Compra realizada, stock actualizado.
+venta blackberry 96: Venta fallida: no hay suficientes unidades del producto para vender
+venta tangerine 96: Venta fallida: no hay suficientes unidades del producto para vender
+venta tuna 48: Venta realizada, stock actualizado.
+venta peach 78: Venta fallida: no hay suficientes unidades del producto para vender
+unidades cinnamon: El producto esta en stock y hay 122 unidades
+listado w: (watercress,43)
+compra halibut 3: Compra realizada, stock actualizado.
+unidades tangerine: El producto esta en stock y hay 13 unidades
+venta dill 73: Venta fallida: no hay suficientes unidades del producto para vender
+venta roastbeef 45: Venta fallida: no hay suficientes unidades del producto para vender
+venta snail 78: Venta fallida: no hay suficientes unidades del producto para vender
+venta plum 55: Venta realizada, stock actualizado.
+venta roastbeef 69: Venta fallida: no hay suficientes unidades del producto para vender
+compra juice 93: Compra realizada, stock actualizado.
+venta curry 63: Venta fallida: el producto nunca ha estado en stock
+unidades swordfish: El producto esta en stock y hay 80 unidades
+compra pomegranate 75: Compra realizada, stock actualizado.
+venta strawberry 85: Venta fallida: no hay suficientes unidades del producto para vender
+unidades meatballs: El producto esta en stock y hay 34 unidades
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (chilli,92) (cider,31) (cinnamon,122) (clam,67) (cod,109) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (halibut,3) (ham,73) (hot_chocolate,45) (juice,125) (lobster,29) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,51) (pink_lemonade,28) (plum,4) (pomegranate,140) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,97) (tuna,19) (vanilla,49) (vinegar,56) (watercress,43)
+venta fried_chicken 14: Venta fallida: el producto nunca ha estado en stock
+venta lobster 75: Venta fallida: no hay suficientes unidades del producto para vender
+compra mushrooms 37: Compra realizada, stock actualizado.
+unidades thyme: El producto esta en stock y hay 97 unidades
+listado l: (lobster,29)
+compra water 66: Compra realizada, stock actualizado.
+listado q: 
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (carrot,97) (champagne,14) (chilli,92) (cider,31) (cinnamon,122) (clam,67) (cod,109) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (halibut,3) (ham,73) (hot_chocolate,45) (juice,125) (lobster,29) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mushrooms,37) (mustard,71) (octopus,16) (oyster,56) (peach,3) (pear,23) (pepper,51) (pink_lemonade,28) (plum,4) (pomegranate,140) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,97) (tuna,19) (vanilla,49) (vinegar,56) (water,66) (watercress,43)
+compra orange_juice 51: Compra realizada, stock actualizado.
+compra capers 97: Compra realizada, stock actualizado.
+venta brine 61: Venta fallida: no hay suficientes unidades del producto para vender
+compra lobster 84: Compra realizada, stock actualizado.
+compra ground_meat 23: Compra realizada, stock actualizado.
+venta brine 28: Venta fallida: no hay suficientes unidades del producto para vender
+unidades salt: El producto esta en stock y hay 192 unidades
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (capers,97) (carrot,97) (champagne,14) (chilli,92) (cider,31) (cinnamon,122) (clam,67) (cod,109) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (ground_meat,23) (halibut,3) (ham,73) (hot_chocolate,45) (juice,125) (lobster,113) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mushrooms,37) (mustard,71) (octopus,16) (orange_juice,51) (oyster,56) (peach,3) (pear,23) (pepper,51) (pink_lemonade,28) (plum,4) (pomegranate,140) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,97) (tuna,19) (vanilla,49) (vinegar,56) (water,66) (watercress,43)
+venta water 71: Venta fallida: no hay suficientes unidades del producto para vender
+compra chick_peas 59: Compra realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,21) (beans,139) (blackberry,62) (brine,3) (capers,97) (carrot,97) (champagne,14) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,122) (clam,67) (cod,109) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (ground_meat,23) (halibut,3) (ham,73) (hot_chocolate,45) (juice,125) (lobster,113) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mushrooms,37) (mustard,71) (octopus,16) (orange_juice,51) (oyster,56) (peach,3) (pear,23) (pepper,51) (pink_lemonade,28) (plum,4) (pomegranate,140) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,97) (tuna,19) (vanilla,49) (vinegar,56) (water,66) (watercress,43)
+compra oyster 32: Compra realizada, stock actualizado.
+venta plum 17: Venta fallida: no hay suficientes unidades del producto para vender
+venta tangerine 58: Venta fallida: no hay suficientes unidades del producto para vender
+compra basil 29: Compra realizada, stock actualizado.
+compra cauliflower 18: Compra realizada, stock actualizado.
+compra white_wine 36: Compra realizada, stock actualizado.
+compra celery 30: Compra realizada, stock actualizado.
+compra pork_chops 89: Compra realizada, stock actualizado.
+compra cheeseburger 75: Compra realizada, stock actualizado.
+venta lobster 15: Venta realizada, stock actualizado.
+venta clam 34: Venta realizada, stock actualizado.
+unidades eel: El producto esta en stock y hay 145 unidades
+venta pepper 9: Venta realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,73) (basil,50) (beans,139) (blackberry,62) (brine,3) (capers,97) (carrot,97) (cauliflower,18) (celery,30) (champagne,14) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,122) (clam,33) (cod,109) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (ground_meat,23) (halibut,3) (ham,73) (hot_chocolate,45) (juice,125) (lobster,98) (macaroni,63) (mango,18) (mashed_potatoes,63) (meatballs,34) (mushrooms,37) (mustard,71) (octopus,16) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,42) (pink_lemonade,28) (plum,4) (pomegranate,140) (pork_chops,89) (roastbeef,21) (salad_dressing,75) (salmon,41) (salt,192) (snail,19) (strawberry,25) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,97) (tuna,19) (vanilla,49) (vinegar,56) (water,66) (watercress,43) (white_wine,36)
+venta mushrooms 39: Venta fallida: no hay suficientes unidades del producto para vender
+compra mayonnaise 73: Compra realizada, stock actualizado.
+compra sardines 38: Compra realizada, stock actualizado.
+unidades brine: El producto esta en stock y hay 3 unidades
+venta thyme 59: Venta realizada, stock actualizado.
+compra squid 62: Compra realizada, stock actualizado.
+compra banana 23: Compra realizada, stock actualizado.
+compra turnip 31: Compra realizada, stock actualizado.
+unidades curry: Error: el producto nunca ha estado en stock
+compra mashed_potatoes 79: Compra realizada, stock actualizado.
+unidades peach: El producto esta en stock y hay 3 unidades
+unidades plum: El producto esta en stock y hay 4 unidades
+compra basil 73: Compra realizada, stock actualizado.
+compra pink_lemonade 95: Compra realizada, stock actualizado.
+venta banana 3: Venta realizada, stock actualizado.
+unidades ground_meat: El producto esta en stock y hay 23 unidades
+venta banana 57: Venta realizada, stock actualizado.
+compra cinnamon 85: Compra realizada, stock actualizado.
+venta tea 89: Venta fallida: no hay suficientes unidades del producto para vender
+unidades cauliflower: El producto esta en stock y hay 18 unidades
+venta basil 33: Venta realizada, stock actualizado.
+compra cabbage 29: Compra realizada, stock actualizado.
+compra coconuts 51: Compra realizada, stock actualizado.
+compra basil 59: Compra realizada, stock actualizado.
+unidades thyme: El producto esta en stock y hay 38 unidades
+compra strawberry 10: Compra realizada, stock actualizado.
+unidades strawberry: El producto esta en stock y hay 35 unidades
+venta mashed_potatoes 90: Venta realizada, stock actualizado.
+venta baked_potatoes 13: Venta fallida: no hay suficientes unidades del producto para vender
+compra sage 58: Compra realizada, stock actualizado.
+compra celery 41: Compra realizada, stock actualizado.
+compra pumpkin 29: Compra realizada, stock actualizado.
+unidades beans: El producto esta en stock y hay 139 unidades
+unidades lobster: El producto esta en stock y hay 98 unidades
+unidades lettuce: Error: el producto nunca ha estado en stock
+venta beans 10: Venta realizada, stock actualizado.
+unidades pomegranate: El producto esta en stock y hay 140 unidades
+venta snail 100: Venta fallida: no hay suficientes unidades del producto para vender
+venta cod 22: Venta realizada, stock actualizado.
+venta hot_chocolate 4: Venta realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,36) (basil,149) (beans,129) (blackberry,62) (brine,3) (cabbage,29) (capers,97) (carrot,97) (cauliflower,18) (celery,71) (champagne,14) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,51) (cod,87) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (ground_meat,23) (halibut,3) (ham,73) (hot_chocolate,41) (juice,125) (lobster,98) (macaroni,63) (mango,18) (mashed_potatoes,52) (mayonnaise,73) (meatballs,34) (mushrooms,37) (mustard,71) (octopus,16) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,42) (pink_lemonade,123) (plum,4) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad_dressing,75) (salmon,41) (salt,192) (sardines,38) (snail,19) (squid,62) (strawberry,35) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,19) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,43) (white_wine,36)
+compra bell_pepper 15: Compra realizada, stock actualizado.
+venta tuna 88: Venta fallida: no hay suficientes unidades del producto para vender
+venta brine 49: Venta fallida: no hay suficientes unidades del producto para vender
+compra basil 55: Compra realizada, stock actualizado.
+compra nutmeg 21: Compra realizada, stock actualizado.
+venta coconuts 34: Venta realizada, stock actualizado.
+venta ham 41: Venta realizada, stock actualizado.
+venta banana 3: Venta realizada, stock actualizado.
+compra chard 78: Compra realizada, stock actualizado.
+compra macaroni 12: Compra realizada, stock actualizado.
+venta lettuce 83: Venta fallida: el producto nunca ha estado en stock
+venta tea 10: Venta realizada, stock actualizado.
+listado: (artichoke,17) (baked_potatoes,7) (banana,33) (basil,204) (beans,129) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,97) (carrot,97) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,87) (coffee,11) (cumin,21) (dill,16) (eel,145) (grapes,7) (ground_meat,23) (halibut,3) (ham,32) (hot_chocolate,41) (juice,125) (lobster,98) (macaroni,75) (mango,18) (mashed_potatoes,52) (mayonnaise,73) (meatballs,34) (mushrooms,37) (mustard,71) (nutmeg,21) (octopus,16) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,42) (pink_lemonade,123) (plum,4) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad_dressing,75) (salmon,41) (salt,192) (sardines,38) (snail,19) (squid,62) (strawberry,35) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,43) (white_wine,36)
+compra onion 50: Compra realizada, stock actualizado.
+venta mashed_potatoes 54: Venta fallida: no hay suficientes unidades del producto para vender
+compra mashed_potatoes 75: Compra realizada, stock actualizado.
+compra ginger 77: Compra realizada, stock actualizado.
+unidades nutmeg: El producto esta en stock y hay 21 unidades
+venta beans 45: Venta realizada, stock actualizado.
+compra fig 13: Compra realizada, stock actualizado.
+compra asparagus 22: Compra realizada, stock actualizado.
+unidades salmon: El producto esta en stock y hay 41 unidades
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,204) (beans,84) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,97) (carrot,97) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,87) (coffee,11) (cumin,21) (dill,16) (eel,145) (fig,13) (ginger,77) (grapes,7) (ground_meat,23) (halibut,3) (ham,32) (hot_chocolate,41) (juice,125) (lobster,98) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,73) (meatballs,34) (mushrooms,37) (mustard,71) (nutmeg,21) (octopus,16) (onion,50) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,42) (pink_lemonade,123) (plum,4) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad_dressing,75) (salmon,41) (salt,192) (sardines,38) (snail,19) (squid,62) (strawberry,35) (sugar,7) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,43) (white_wine,36)
+unidades can_of_coke: Error: el producto nunca ha estado en stock
+venta pepper 4: Venta realizada, stock actualizado.
+listado f: (fig,13)
+compra spinach 70: Compra realizada, stock actualizado.
+compra mushrooms 82: Compra realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 17 unidades
+unidades pineapple_juice: Error: el producto nunca ha estado en stock
+venta basil 49: Venta realizada, stock actualizado.
+venta ham 3: Venta realizada, stock actualizado.
+compra spaghetti 5: Compra realizada, stock actualizado.
+unidades salad: Error: el producto nunca ha estado en stock
+compra mustard 78: Compra realizada, stock actualizado.
+venta white_wine 24: Venta realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 17 unidades
+venta eel 97: Venta realizada, stock actualizado.
+unidades cider: El producto esta en stock y hay 31 unidades
+listado e: (eel,48)
+venta mango 55: Venta fallida: no hay suficientes unidades del producto para vender
+compra grapes 6: Compra realizada, stock actualizado.
+unidades pork_chops: El producto esta en stock y hay 89 unidades
+venta mayonnaise 52: Venta realizada, stock actualizado.
+unidades meatballs: El producto esta en stock y hay 34 unidades
+compra lime 66: Compra realizada, stock actualizado.
+unidades swordfish: El producto esta en stock y hay 80 unidades
+unidades tuna: El producto esta en stock y hay 19 unidades
+venta tea 18: Venta fallida: no hay suficientes unidades del producto para vender
+compra beef_steak 95: Compra realizada, stock actualizado.
+compra plum 15: Compra realizada, stock actualizado.
+unidades watermelon: Error: el producto nunca ha estado en stock
+venta watercress 29: Venta realizada, stock actualizado.
+unidades lobster: El producto esta en stock y hay 98 unidades
+venta eel 38: Venta realizada, stock actualizado.
+compra lobster 53: Compra realizada, stock actualizado.
+compra onion 1: Compra realizada, stock actualizado.
+unidades pepper: El producto esta en stock y hay 38 unidades
+compra pink_lemonade 19: Compra realizada, stock actualizado.
+venta juice 36: Venta realizada, stock actualizado.
+compra halibut 95: Compra realizada, stock actualizado.
+venta carrot 31: Venta realizada, stock actualizado.
+venta capers 86: Venta realizada, stock actualizado.
+listado s: (sage,58) (salad_dressing,75) (salmon,41) (salt,192) (sardines,38) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,7) (swordfish,80)
+venta sugar 6: Venta realizada, stock actualizado.
+compra salad 72: Compra realizada, stock actualizado.
+compra hamburger 38: Compra realizada, stock actualizado.
+venta basil 28: Venta realizada, stock actualizado.
+compra hamburger 41: Compra realizada, stock actualizado.
+venta artichoke 53: Venta fallida: no hay suficientes unidades del producto para vender
+compra noodles 79: Compra realizada, stock actualizado.
+listado f: (fig,13)
+compra salt 88: Compra realizada, stock actualizado.
+venta coffee 84: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,127) (beans,84) (beef_steak,95) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,87) (coffee,11) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,77) (grapes,13) (ground_meat,23) (halibut,98) (ham,29) (hamburger,79) (hot_chocolate,41) (juice,89) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mustard,149) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,38) (pink_lemonade,142) (plum,19) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,38) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+venta cod 56: Venta realizada, stock actualizado.
+venta salmon 75: Venta fallida: no hay suficientes unidades del producto para vender
+venta tea 81: Venta fallida: no hay suficientes unidades del producto para vender
+listado a: (artichoke,17) (asparagus,22)
+listado k: 
+unidades cumin: El producto esta en stock y hay 21 unidades
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,127) (beans,84) (beef_steak,95) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,31) (coffee,11) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,77) (grapes,13) (ground_meat,23) (halibut,98) (ham,29) (hamburger,79) (hot_chocolate,41) (juice,89) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mustard,149) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,38) (pink_lemonade,142) (plum,19) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,38) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+unidades sage: El producto esta en stock y hay 58 unidades
+unidades pink_lemonade: El producto esta en stock y hay 142 unidades
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,127) (beans,84) (beef_steak,95) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,31) (coffee,11) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,77) (grapes,13) (ground_meat,23) (halibut,98) (ham,29) (hamburger,79) (hot_chocolate,41) (juice,89) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mustard,149) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,38) (pink_lemonade,142) (plum,19) (pomegranate,140) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,38) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+venta beans 45: Venta realizada, stock actualizado.
+unidades ham: El producto esta en stock y hay 29 unidades
+compra ginger 67: Compra realizada, stock actualizado.
+compra sardines 99: Compra realizada, stock actualizado.
+unidades hamburger: El producto esta en stock y hay 79 unidades
+venta coffee 2: Venta realizada, stock actualizado.
+unidades curry: Error: el producto nunca ha estado en stock
+unidades pumpkin: El producto esta en stock y hay 29 unidades
+compra mussel 46: Compra realizada, stock actualizado.
+venta pomegranate 18: Venta realizada, stock actualizado.
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,127) (beans,39) (beef_steak,95) (bell_pepper,15) (blackberry,62) (brine,3) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,71) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,144) (grapes,13) (ground_meat,23) (halibut,98) (ham,29) (hamburger,79) (hot_chocolate,41) (juice,89) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mussel,46) (mustard,149) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,38) (pink_lemonade,142) (plum,19) (pomegranate,122) (pork_chops,89) (pumpkin,29) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,137) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+listado s: (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,137) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80)
+venta basil 16: Venta realizada, stock actualizado.
+unidades grapes: El producto esta en stock y hay 13 unidades
+venta brine 2: Venta realizada, stock actualizado.
+listado s: (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,137) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80)
+venta pork_chops 14: Venta realizada, stock actualizado.
+unidades sugar: El producto esta en stock y hay 1 unidad
+venta celery 79: Venta fallida: no hay suficientes unidades del producto para vender
+venta sage 63: Venta fallida: no hay suficientes unidades del producto para vender
+unidades salad_dressing: El producto esta en stock y hay 75 unidades
+venta celery 60: Venta realizada, stock actualizado.
+compra mustard 83: Compra realizada, stock actualizado.
+unidades juice: El producto esta en stock y hay 89 unidades
+compra shrimp 11: Compra realizada, stock actualizado.
+unidades spinach: El producto esta en stock y hay 70 unidades
+compra lentils 59: Compra realizada, stock actualizado.
+unidades tea: El producto esta en stock y hay 9 unidades
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (bell_pepper,15) (blackberry,62) (brine,1) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,33) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,144) (grapes,13) (ground_meat,23) (halibut,98) (ham,29) (hamburger,79) (hot_chocolate,41) (juice,89) (lentils,59) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mussel,46) (mustard,232) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,23) (pepper,38) (pink_lemonade,142) (plum,19) (pomegranate,122) (pork_chops,75) (pumpkin,29) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,41) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,9) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+unidades banana: El producto esta en stock y hay 33 unidades
+compra clam 38: Compra realizada, stock actualizado.
+venta ham 25: Venta realizada, stock actualizado.
+listado q: 
+venta ground_meat 13: Venta realizada, stock actualizado.
+unidades pink_lemonade: El producto esta en stock y hay 142 unidades
+unidades pizza: Error: el producto nunca ha estado en stock
+compra salmon 8: Compra realizada, stock actualizado.
+compra raspberry 84: Compra realizada, stock actualizado.
+listado y: 
+compra pineapple 46: Compra realizada, stock actualizado.
+venta pepper 36: Venta realizada, stock actualizado.
+compra ginger 47: Compra realizada, stock actualizado.
+venta juice 59: Venta realizada, stock actualizado.
+unidades banana: El producto esta en stock y hay 33 unidades
+venta lentils 6: Venta realizada, stock actualizado.
+venta ginger 15: Venta realizada, stock actualizado.
+venta pomegranate 77: Venta realizada, stock actualizado.
+unidades dill: El producto esta en stock y hay 16 unidades
+unidades celery: El producto esta en stock y hay 11 unidades
+compra tea 84: Compra realizada, stock actualizado.
+unidades celery: El producto esta en stock y hay 11 unidades
+compra pear 20: Compra realizada, stock actualizado.
+unidades oyster: El producto esta en stock y hay 88 unidades
+compra tea 33: Compra realizada, stock actualizado.
+compra tea 91: Compra realizada, stock actualizado.
+compra beet 89: Compra realizada, stock actualizado.
+venta meatballs 48: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,79) (hot_chocolate,41) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,119) (mussel,46) (mustard,232) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,217) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+compra broad_beans 69: Compra realizada, stock actualizado.
+unidades beans: El producto esta en stock y hay 39 unidades
+compra mushrooms 72: Compra realizada, stock actualizado.
+unidades ground_meat: El producto esta en stock y hay 10 unidades
+venta strawberry 69: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,79) (hot_chocolate,41) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,46) (mustard,232) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,88) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,58) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,217) (thyme,38) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+unidades swordfish: El producto esta en stock y hay 80 unidades
+compra mussel 93: Compra realizada, stock actualizado.
+compra curry 23: Compra realizada, stock actualizado.
+venta sage 12: Venta realizada, stock actualizado.
+compra hot_chocolate 45: Compra realizada, stock actualizado.
+venta oyster 58: Venta realizada, stock actualizado.
+compra tomato 25: Compra realizada, stock actualizado.
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (curry,23) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,79) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,139) (mustard,232) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,30) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,46) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,217) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+venta tuna 81: Venta fallida: no hay suficientes unidades del producto para vender
+venta tea 57: Venta realizada, stock actualizado.
+venta mustard 82: Venta realizada, stock actualizado.
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,75) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (curry,23) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,79) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,139) (mustard,150) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,30) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,46) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,5) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,160) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+unidades cod: El producto esta en stock y hay 31 unidades
+listado q: 
+listado i: 
+unidades lobster: El producto esta en stock y hay 151 unidades
+unidades mashed_potatoes: El producto esta en stock y hay 127 unidades
+unidades pomegranate: El producto esta en stock y hay 45 unidades
+unidades grapes: El producto esta en stock y hay 13 unidades
+unidades artichoke: El producto esta en stock y hay 17 unidades
+compra spaghetti 100: Compra realizada, stock actualizado.
+venta bell_pepper 34: Venta fallida: no hay suficientes unidades del producto para vender
+unidades brussels_sprouts: Error: el producto nunca ha estado en stock
+venta hamburger 12: Venta realizada, stock actualizado.
+compra cheeseburger 7: Compra realizada, stock actualizado.
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,82) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (curry,23) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,67) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,139) (mustard,150) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,30) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,46) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,160) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+venta juice 65: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,82) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,71) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (curry,23) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,67) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,18) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,139) (mustard,150) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,30) (peach,3) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,46) (salad,72) (salad_dressing,75) (salmon,49) (salt,280) (sardines,137) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,3) (tea,160) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (white_wine,12)
+venta plum 20: Venta fallida: no hay suficientes unidades del producto para vender
+unidades lobster: El producto esta en stock y hay 151 unidades
+compra clam 35: Compra realizada, stock actualizado.
+venta mango 100: Venta fallida: no hay suficientes unidades del producto para vender
+compra beer 21: Compra realizada, stock actualizado.
+venta cabbage 46: Venta fallida: no hay suficientes unidades del producto para vender
+compra peach 8: Compra realizada, stock actualizado.
+compra tarragon 7: Compra realizada, stock actualizado.
+compra mango 52: Compra realizada, stock actualizado.
+venta salt 18: Venta realizada, stock actualizado.
+compra watermelon 19: Compra realizada, stock actualizado.
+unidades oyster: El producto esta en stock y hay 30 unidades
+compra mussel 86: Compra realizada, stock actualizado.
+unidades mushrooms: El producto esta en stock y hay 191 unidades
+unidades beans: El producto esta en stock y hay 39 unidades
+venta beans 86: Venta fallida: no hay suficientes unidades del producto para vender
+venta eel 33: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,33) (basil,111) (beans,39) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,11) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheeseburger,82) (chick_peas,59) (chilli,92) (cider,31) (cinnamon,207) (clam,106) (coconuts,17) (cod,31) (coffee,9) (cumin,21) (curry,23) (dill,16) (eel,10) (fig,13) (ginger,176) (grapes,13) (ground_meat,10) (halibut,98) (ham,4) (hamburger,67) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,151) (macaroni,75) (mango,70) (mashed_potatoes,127) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,225) (mustard,150) (noodles,79) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,51) (oyster,30) (peach,11) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,84) (roastbeef,21) (sage,46) (salad,72) (salad_dressing,75) (salmon,49) (salt,262) (sardines,137) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,160) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,49) (vinegar,56) (water,66) (watercress,14) (watermelon,19) (white_wine,12)
+venta salad 12: Venta realizada, stock actualizado.
+compra capers 3: Compra realizada, stock actualizado.
+unidades cinnamon: El producto esta en stock y hay 207 unidades
+compra pizza 83: Compra realizada, stock actualizado.
+venta mussel 37: Venta realizada, stock actualizado.
+unidades mushrooms: El producto esta en stock y hay 191 unidades
+unidades brine: El producto esta en stock y hay 1 unidad
+venta asparagus 97: Venta fallida: no hay suficientes unidades del producto para vender
+venta tea 60: Venta realizada, stock actualizado.
+venta macaroni 51: Venta realizada, stock actualizado.
+compra shark 63: Compra realizada, stock actualizado.
+compra noodles 7: Compra realizada, stock actualizado.
+compra chick_peas 87: Compra realizada, stock actualizado.
+unidades salad_dressing: El producto esta en stock y hay 75 unidades
+compra ginger 78: Compra realizada, stock actualizado.
+compra banana 74: Compra realizada, stock actualizado.
+venta raspberry 45: Venta realizada, stock actualizado.
+unidades fried_chicken: Error: el producto nunca ha estado en stock
+compra watercress 61: Compra realizada, stock actualizado.
+listado b: (baked_potatoes,7) (banana,107) (basil,111) (beans,39) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69)
+venta tarragon 11: Venta fallida: no hay suficientes unidades del producto para vender
+unidades cider: El producto esta en stock y hay 31 unidades
+compra cucumber 52: Compra realizada, stock actualizado.
+venta salmon 2: Venta realizada, stock actualizado.
+compra apple 81: Compra realizada, stock actualizado.
+unidades vinegar: El producto esta en stock y hay 56 unidades
+compra mango 96: Compra realizada, stock actualizado.
+venta red_wine 56: Venta fallida: el producto nunca ha estado en stock
+venta fig 82: Venta fallida: no hay suficientes unidades del producto para vender
+venta beans 57: Venta fallida: no hay suficientes unidades del producto para vender
+venta capers 37: Venta fallida: no hay suficientes unidades del producto para vender
+compra curry 67: Compra realizada, stock actualizado.
+compra cheese 13: Compra realizada, stock actualizado.
+unidades roastbeef: El producto esta en stock y hay 21 unidades
+venta lobster 67: Venta realizada, stock actualizado.
+venta peach 5: Venta realizada, stock actualizado.
+venta spinach 75: Venta fallida: no hay suficientes unidades del producto para vender
+compra tea 18: Compra realizada, stock actualizado.
+venta mashed_potatoes 25: Venta realizada, stock actualizado.
+compra herring 49: Compra realizada, stock actualizado.
+venta banana 35: Venta realizada, stock actualizado.
+unidades onion: El producto esta en stock y hay 51 unidades
+compra vanilla 70: Compra realizada, stock actualizado.
+unidades basil: El producto esta en stock y hay 111 unidades
+listado l: (lentils,53) (lime,66) (lobster,84)
+compra orange_juice 85: Compra realizada, stock actualizado.
+compra ribs 35: Compra realizada, stock actualizado.
+unidades sardines: El producto esta en stock y hay 137 unidades
+compra eel 64: Compra realizada, stock actualizado.
+unidades herring: El producto esta en stock y hay 49 unidades
+compra chick_peas 54: Compra realizada, stock actualizado.
+compra halibut 52: Compra realizada, stock actualizado.
+listado k: 
+compra eggplant 8: Compra realizada, stock actualizado.
+unidades dill: El producto esta en stock y hay 16 unidades
+listado: (apple,81) (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,72) (basil,111) (beans,39) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheese,13) (cheeseburger,82) (chick_peas,200) (chilli,92) (cider,31) (cinnamon,207) (clam,106) (coconuts,17) (cod,31) (coffee,9) (cucumber,52) (cumin,21) (curry,90) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,254) (grapes,13) (ground_meat,10) (halibut,150) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,84) (macaroni,24) (mango,166) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,188) (mustard,150) (noodles,86) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,136) (oyster,30) (peach,6) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (pizza,83) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,39) (ribs,35) (roastbeef,21) (sage,46) (salad,60) (salad_dressing,75) (salmon,47) (salt,262) (sardines,137) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,119) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+venta banana 23: Venta realizada, stock actualizado.
+venta ginger 76: Venta realizada, stock actualizado.
+unidades mustard: El producto esta en stock y hay 150 unidades
+venta cinnamon 24: Venta realizada, stock actualizado.
+unidades mashed_potatoes: El producto esta en stock y hay 102 unidades
+unidades mashed_potatoes: El producto esta en stock y hay 102 unidades
+venta celery 89: Venta fallida: no hay suficientes unidades del producto para vender
+compra chick_peas 82: Compra realizada, stock actualizado.
+listado: (apple,81) (artichoke,17) (asparagus,22) (baked_potatoes,7) (banana,49) (basil,111) (beans,39) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,62) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,66) (cauliflower,18) (celery,11) (champagne,14) (chard,78) (cheese,13) (cheeseburger,82) (chick_peas,282) (chilli,92) (cider,31) (cinnamon,183) (clam,106) (coconuts,17) (cod,31) (coffee,9) (cucumber,52) (cumin,21) (curry,90) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,178) (grapes,13) (ground_meat,10) (halibut,150) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,84) (macaroni,24) (mango,166) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,188) (mustard,150) (noodles,86) (nutmeg,21) (octopus,16) (onion,51) (orange_juice,136) (oyster,30) (peach,6) (pear,43) (pepper,2) (pineapple,46) (pink_lemonade,142) (pizza,83) (plum,19) (pomegranate,45) (pork_chops,75) (pumpkin,29) (raspberry,39) (ribs,35) (roastbeef,21) (sage,46) (salad,60) (salad_dressing,75) (salmon,47) (salt,262) (sardines,137) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (tuna,19) (turnip,31) (vanilla,119) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+listado h: (halibut,150) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86)
+venta basil 67: Venta realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 17 unidades
+listado r: (raspberry,39) (ribs,35) (roastbeef,21)
+unidades tea: El producto esta en stock y hay 118 unidades
+compra raspberry 90: Compra realizada, stock actualizado.
+venta pink_lemonade 60: Venta realizada, stock actualizado.
+unidades blackberry: El producto esta en stock y hay 62 unidades
+venta fig 20: Venta fallida: no hay suficientes unidades del producto para vender
+compra pizza 32: Compra realizada, stock actualizado.
+compra pineapple_juice 16: Compra realizada, stock actualizado.
+unidades lobster: El producto esta en stock y hay 84 unidades
+unidades cheeseburger: El producto esta en stock y hay 82 unidades
+unidades beet: El producto esta en stock y hay 89 unidades
+venta noodles 51: Venta realizada, stock actualizado.
+venta cod 7: Venta realizada, stock actualizado.
+compra chard 21: Compra realizada, stock actualizado.
+listado w: (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+venta carrot 49: Venta realizada, stock actualizado.
+compra chick_peas 75: Compra realizada, stock actualizado.
+venta ginger 9: Venta realizada, stock actualizado.
+listado s: (sage,46) (salad,60) (salad_dressing,75) (salmon,47) (salt,262) (sardines,137) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80)
+listado f: (fig,13)
+unidades ribs: El producto esta en stock y hay 35 unidades
+compra halibut 6: Compra realizada, stock actualizado.
+venta cauliflower 97: Venta fallida: no hay suficientes unidades del producto para vender
+compra grapes 46: Compra realizada, stock actualizado.
+unidades saffron: Error: el producto nunca ha estado en stock
+listado y: 
+compra trout 22: Compra realizada, stock actualizado.
+compra asparagus 49: Compra realizada, stock actualizado.
+unidades artichoke: El producto esta en stock y hay 17 unidades
+venta pizza 75: Venta realizada, stock actualizado.
+compra rosemary 51: Compra realizada, stock actualizado.
+unidades mayonnaise: El producto esta en stock y hay 21 unidades
+compra pomegranate 60: Compra realizada, stock actualizado.
+compra orange 13: Compra realizada, stock actualizado.
+unidades raspberry: El producto esta en stock y hay 129 unidades
+unidades macaroni: El producto esta en stock y hay 24 unidades
+compra lobster 14: Compra realizada, stock actualizado.
+venta cheese 59: Venta fallida: no hay suficientes unidades del producto para vender
+unidades vanilla: El producto esta en stock y hay 119 unidades
+venta cheeseburger 17: Venta realizada, stock actualizado.
+compra blackberry 31: Compra realizada, stock actualizado.
+compra beans 43: Compra realizada, stock actualizado.
+compra curry 37: Compra realizada, stock actualizado.
+compra octopus 68: Compra realizada, stock actualizado.
+listado: (apple,81) (artichoke,17) (asparagus,71) (baked_potatoes,7) (banana,49) (basil,44) (beans,82) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,17) (cauliflower,18) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (chick_peas,357) (chilli,92) (cider,31) (cinnamon,183) (clam,106) (coconuts,17) (cod,24) (coffee,9) (cucumber,52) (cumin,21) (curry,127) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,169) (grapes,59) (ground_meat,10) (halibut,156) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,66) (lobster,98) (macaroni,24) (mango,166) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,188) (mustard,150) (noodles,35) (nutmeg,21) (octopus,84) (onion,51) (orange,13) (orange_juice,136) (oyster,30) (peach,6) (pear,43) (pepper,2) (pineapple,46) (pineapple_juice,16) (pink_lemonade,82) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,75) (pumpkin,29) (raspberry,129) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,47) (salt,262) (sardines,137) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (trout,22) (tuna,19) (turnip,31) (vanilla,119) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+venta lime 2: Venta realizada, stock actualizado.
+compra octopus 98: Compra realizada, stock actualizado.
+listado y: 
+venta asparagus 53: Venta realizada, stock actualizado.
+compra pepper 64: Compra realizada, stock actualizado.
+unidades octopus: El producto esta en stock y hay 182 unidades
+unidades octopus: El producto esta en stock y hay 182 unidades
+compra cauliflower 75: Compra realizada, stock actualizado.
+venta ham 11: Venta fallida: no hay suficientes unidades del producto para vender
+compra parsley 63: Compra realizada, stock actualizado.
+compra macaroni 76: Compra realizada, stock actualizado.
+venta artichoke 63: Venta fallida: no hay suficientes unidades del producto para vender
+venta curry 50: Venta realizada, stock actualizado.
+compra vanilla 20: Compra realizada, stock actualizado.
+venta ground_meat 75: Venta fallida: no hay suficientes unidades del producto para vender
+listado c: (cabbage,29) (capers,14) (carrot,17) (cauliflower,93) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (chick_peas,357) (chilli,92) (cider,31) (cinnamon,183) (clam,106) (coconuts,17) (cod,24) (coffee,9) (cucumber,52) (cumin,21) (curry,77)
+venta sardines 50: Venta realizada, stock actualizado.
+compra apple_juice 34: Compra realizada, stock actualizado.
+listado f: (fig,13)
+unidades strawberry: El producto esta en stock y hay 35 unidades
+unidades cheeseburger: El producto esta en stock y hay 65 unidades
+unidades asparagus: El producto esta en stock y hay 18 unidades
+venta salmon 21: Venta realizada, stock actualizado.
+compra onion 6: Compra realizada, stock actualizado.
+listado: (apple,81) (apple_juice,34) (artichoke,17) (asparagus,18) (baked_potatoes,7) (banana,49) (basil,44) (beans,82) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,17) (cauliflower,93) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (chick_peas,357) (chilli,92) (cider,31) (cinnamon,183) (clam,106) (coconuts,17) (cod,24) (coffee,9) (cucumber,52) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,169) (grapes,59) (ground_meat,10) (halibut,156) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,98) (macaroni,100) (mango,166) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (mushrooms,191) (mussel,188) (mustard,150) (noodles,35) (nutmeg,21) (octopus,182) (onion,57) (orange,13) (orange_juice,136) (oyster,30) (parsley,63) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,82) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,75) (pumpkin,29) (raspberry,129) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,262) (sardines,87) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (trout,22) (tuna,19) (turnip,31) (vanilla,139) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+compra pork_chops 98: Compra realizada, stock actualizado.
+compra clove 39: Compra realizada, stock actualizado.
+compra cucumber 57: Compra realizada, stock actualizado.
+compra coffee 36: Compra realizada, stock actualizado.
+unidades salt: El producto esta en stock y hay 262 unidades
+venta banana 72: Venta fallida: no hay suficientes unidades del producto para vender
+venta chick_peas 8: Venta realizada, stock actualizado.
+venta chick_peas 43: Venta realizada, stock actualizado.
+compra red_wine 44: Compra realizada, stock actualizado.
+venta ham 60: Venta fallida: no hay suficientes unidades del producto para vender
+compra melon 36: Compra realizada, stock actualizado.
+compra noodles 3: Compra realizada, stock actualizado.
+listado t: (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (trout,22) (tuna,19) (turnip,31)
+listado: (apple,81) (apple_juice,34) (artichoke,17) (asparagus,18) (baked_potatoes,7) (banana,49) (basil,44) (beans,82) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,17) (cauliflower,93) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (chick_peas,306) (chilli,92) (cider,31) (cinnamon,183) (clam,106) (clove,39) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,169) (grapes,59) (ground_meat,10) (halibut,156) (ham,4) (hamburger,67) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,98) (macaroni,100) (mango,166) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,188) (mustard,150) (noodles,38) (nutmeg,21) (octopus,182) (onion,57) (orange,13) (orange_juice,136) (oyster,30) (parsley,63) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,82) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (pumpkin,29) (raspberry,129) (red_wine,44) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,262) (sardines,87) (shark,63) (shrimp,11) (snail,19) (spaghetti,105) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,80) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (trout,22) (tuna,19) (turnip,31) (vanilla,139) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+compra potato_chips 71: Compra realizada, stock actualizado.
+unidades pineapple: El producto esta en stock y hay 46 unidades
+unidades octopus: El producto esta en stock y hay 182 unidades
+venta mussel 86: Venta realizada, stock actualizado.
+listado t: (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,25) (trout,22) (tuna,19) (turnip,31)
+compra tomato_juice 74: Compra realizada, stock actualizado.
+venta swordfish 40: Venta realizada, stock actualizado.
+venta pizza 72: Venta fallida: no hay suficientes unidades del producto para vender
+compra cinnamon 98: Compra realizada, stock actualizado.
+unidades cheeseburger: El producto esta en stock y hay 65 unidades
+unidades vanilla: El producto esta en stock y hay 139 unidades
+listado e: (eel,74) (eggplant,8)
+compra ravioli 48: Compra realizada, stock actualizado.
+compra tomato 58: Compra realizada, stock actualizado.
+unidades lobster: El producto esta en stock y hay 98 unidades
+venta hamburger 13: Venta realizada, stock actualizado.
+unidades pineapple_juice: El producto esta en stock y hay 16 unidades
+unidades asparagus: El producto esta en stock y hay 18 unidades
+unidades lobster: El producto esta en stock y hay 98 unidades
+compra spaghetti 40: Compra realizada, stock actualizado.
+unidades pumpkin: El producto esta en stock y hay 29 unidades
+compra mango 56: Compra realizada, stock actualizado.
+compra mussel 15: Compra realizada, stock actualizado.
+venta banana 39: Venta realizada, stock actualizado.
+venta carrot 1: Venta realizada, stock actualizado.
+unidades lettuce: Error: el producto nunca ha estado en stock
+compra scrambled_eggs 95: Compra realizada, stock actualizado.
+compra banana 63: Compra realizada, stock actualizado.
+venta lamb 99: Venta fallida: el producto nunca ha estado en stock
+unidades pepper: El producto esta en stock y hay 66 unidades
+compra macaroni 35: Compra realizada, stock actualizado.
+unidades chick_peas: El producto esta en stock y hay 306 unidades
+compra salt 4: Compra realizada, stock actualizado.
+unidades eel: El producto esta en stock y hay 74 unidades
+unidades ham: El producto esta en stock y hay 4 unidades
+compra rhubarb 53: Compra realizada, stock actualizado.
+listado: (apple,81) (apple_juice,34) (artichoke,17) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,21) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,29) (capers,14) (carrot,16) (cauliflower,93) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (chick_peas,306) (chilli,92) (cider,31) (cinnamon,281) (clam,106) (clove,39) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (ginger,169) (grapes,59) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,98) (macaroni,135) (mango,222) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,117) (mustard,150) (noodles,38) (nutmeg,21) (octopus,182) (onion,57) (orange,13) (orange_juice,136) (oyster,30) (parsley,63) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,82) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato_chips,71) (pumpkin,29) (raspberry,129) (ravioli,48) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,266) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,11) (snail,19) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,40) (tangerine,13) (tarragon,10) (tea,118) (thyme,38) (tomato,83) (tomato_juice,74) (trout,22) (tuna,19) (turnip,31) (vanilla,139) (vinegar,56) (water,66) (watercress,75) (watermelon,19) (white_wine,12)
+compra ravioli 59: Compra realizada, stock actualizado.
+listado u: 
+venta chick_peas 99: Venta realizada, stock actualizado.
+venta mussel 11: Venta realizada, stock actualizado.
+compra beer 31: Compra realizada, stock actualizado.
+venta pineapple_juice 46: Venta fallida: no hay suficientes unidades del producto para vender
+compra cherry 42: Compra realizada, stock actualizado.
+compra pumpkin 71: Compra realizada, stock actualizado.
+venta snail 91: Venta fallida: no hay suficientes unidades del producto para vender
+compra carrot 17: Compra realizada, stock actualizado.
+venta water 42: Venta realizada, stock actualizado.
+unidades ginger: El producto esta en stock y hay 169 unidades
+listado u: 
+unidades asparagus: El producto esta en stock y hay 18 unidades
+compra lobster 68: Compra realizada, stock actualizado.
+compra clove 36: Compra realizada, stock actualizado.
+unidades lasagne: Error: el producto nunca ha estado en stock
+unidades pizza: El producto esta en stock y hay 40 unidades
+unidades orange_juice: El producto esta en stock y hay 136 unidades
+venta tarragon 2: Venta realizada, stock actualizado.
+venta carrot 96: Venta fallida: no hay suficientes unidades del producto para vender
+unidades mango: El producto esta en stock y hay 222 unidades
+unidades eel: El producto esta en stock y hay 74 unidades
+compra fried_chicken 55: Compra realizada, stock actualizado.
+compra shrimp 45: Compra realizada, stock actualizado.
+compra cabbage 90: Compra realizada, stock actualizado.
+compra tomato_juice 71: Compra realizada, stock actualizado.
+unidades beans: El producto esta en stock y hay 82 unidades
+compra can_of_coke 44: Compra realizada, stock actualizado.
+venta watercress 17: Venta realizada, stock actualizado.
+compra potato 50: Compra realizada, stock actualizado.
+venta grapes 9: Venta realizada, stock actualizado.
+unidades octopus: El producto esta en stock y hay 182 unidades
+unidades capers: El producto esta en stock y hay 14 unidades
+compra apple 10: Compra realizada, stock actualizado.
+compra tomato_sauce 8: Compra realizada, stock actualizado.
+compra pink_lemonade 60: Compra realizada, stock actualizado.
+venta basil 75: Venta fallida: no hay suficientes unidades del producto para vender
+venta swordfish 1: Venta realizada, stock actualizado.
+venta pumpkin 95: Venta realizada, stock actualizado.
+compra watermelon 19: Compra realizada, stock actualizado.
+compra artichoke 97: Compra realizada, stock actualizado.
+compra parsley 83: Compra realizada, stock actualizado.
+venta cider 28: Venta realizada, stock actualizado.
+listado: (apple,91) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,93) (celery,11) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,42) (chick_peas,207) (chilli,92) (cider,3) (cinnamon,281) (clam,106) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,55) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,166) (macaroni,135) (mango,222) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,150) (noodles,38) (nutmeg,21) (octopus,182) (onion,57) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,266) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,19) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,118) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,31) (vanilla,139) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta onion 77: Venta fallida: no hay suficientes unidades del producto para vender
+unidades fried_chicken: El producto esta en stock y hay 55 unidades
+unidades onion: El producto esta en stock y hay 57 unidades
+compra celery 13: Compra realizada, stock actualizado.
+listado: (apple,91) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,93) (celery,24) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,42) (chick_peas,207) (chilli,92) (cider,3) (cinnamon,281) (clam,106) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,55) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,166) (macaroni,135) (mango,222) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,150) (noodles,38) (nutmeg,21) (octopus,182) (onion,57) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,266) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,19) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,118) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,31) (vanilla,139) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra snail 46: Compra realizada, stock actualizado.
+venta lobster 96: Venta realizada, stock actualizado.
+venta cod 53: Venta fallida: no hay suficientes unidades del producto para vender
+compra salt 39: Compra realizada, stock actualizado.
+compra cumin 41: Compra realizada, stock actualizado.
+compra mustard 96: Compra realizada, stock actualizado.
+venta mango 10: Venta realizada, stock actualizado.
+venta apple 30: Venta realizada, stock actualizado.
+compra clam 69: Compra realizada, stock actualizado.
+compra turnip 31: Compra realizada, stock actualizado.
+venta celery 1: Venta realizada, stock actualizado.
+unidades cabbage: El producto esta en stock y hay 119 unidades
+venta chick_peas 66: Venta realizada, stock actualizado.
+compra mustard 61: Compra realizada, stock actualizado.
+compra cauliflower 93: Compra realizada, stock actualizado.
+compra onion 16: Compra realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,42) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,281) (clam,175) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,62) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,55) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,307) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,118) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,139) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta lentils 74: Venta fallida: no hay suficientes unidades del producto para vender
+unidades salad: El producto esta en stock y hay 60 unidades
+unidades tangerine: El producto esta en stock y hay 13 unidades
+unidades tuna: El producto esta en stock y hay 19 unidades
+unidades ravioli: El producto esta en stock y hay 107 unidades
+venta steak 26: Venta fallida: el producto nunca ha estado en stock
+unidades peach: El producto esta en stock y hay 6 unidades
+compra cherry 58: Compra realizada, stock actualizado.
+venta clam 74: Venta realizada, stock actualizado.
+venta capers 53: Venta fallida: no hay suficientes unidades del producto para vender
+unidades beef_steak: El producto esta en stock y hay 95 unidades
+venta tea 27: Venta realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,100) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,281) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,62) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,55) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,307) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,139) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+listado l: (lentils,53) (lime,64) (lobster,70)
+unidades eggplant: El producto esta en stock y hay 8 unidades
+unidades mashed_potatoes: El producto esta en stock y hay 102 unidades
+venta mustard 64: Venta realizada, stock actualizado.
+compra saffron 6: Compra realizada, stock actualizado.
+venta asparagus 59: Venta fallida: no hay suficientes unidades del producto para vender
+listado d: (dill,16)
+venta cherry 97: Venta realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,82) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,281) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,62) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,55) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,243) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,6) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,139) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+listado e: (eel,74) (eggplant,8)
+unidades raspberry: El producto esta en stock y hay 129 unidades
+unidades celery: El producto esta en stock y hay 23 unidades
+venta cinnamon 62: Venta realizada, stock actualizado.
+unidades watercress: El producto esta en stock y hay 58 unidades
+venta cumin 41: Venta realizada, stock actualizado.
+unidades cinnamon: El producto esta en stock y hay 219 unidades
+compra vanilla 56: Compra realizada, stock actualizado.
+unidades cabbage: El producto esta en stock y hay 119 unidades
+unidades french_fries: Error: el producto nunca ha estado en stock
+compra fried_chicken 61: Compra realizada, stock actualizado.
+venta beans 43: Venta realizada, stock actualizado.
+venta tomato_sauce 98: Venta fallida: no hay suficientes unidades del producto para vender
+venta shrimp 35: Venta realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,219) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,243) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,6) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra cinnamon 11: Compra realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,95) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,86) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,243) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,6) (sage,46) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades pear: El producto esta en stock y hay 43 unidades
+unidades sugar: El producto esta en stock y hay 1 unidad
+listado e: (eel,74) (eggplant,8)
+unidades cider: El producto esta en stock y hay 3 unidades
+listado j: (juice,30)
+compra sage 97: Compra realizada, stock actualizado.
+venta cherry 6: Venta fallida: no hay suficientes unidades del producto para vender
+compra beef_steak 19: Compra realizada, stock actualizado.
+compra hot_chocolate 19: Compra realizada, stock actualizado.
+listado p: (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5)
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,44) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,105) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,243) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,6) (sage,143) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra can_of_coke 82: Compra realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,109) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,169) (grapes,50) (ground_meat,10) (halibut,156) (ham,4) (hamburger,54) (herring,49) (hot_chocolate,105) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,243) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,43) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,6) (sage,143) (salad,60) (salad_dressing,75) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,145) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades trout: El producto esta en stock y hay 22 unidades
+unidades shrimp: El producto esta en stock y hay 21 unidades
+venta ginger 69: Venta realizada, stock actualizado.
+compra saffron 65: Compra realizada, stock actualizado.
+compra pear 1: Compra realizada, stock actualizado.
+compra herring 8: Compra realizada, stock actualizado.
+unidades cinnamon: El producto esta en stock y hay 230 unidades
+compra salad_dressing 51: Compra realizada, stock actualizado.
+listado v: (vanilla,195) (vinegar,56)
+listado i: 
+venta mustard 71: Venta realizada, stock actualizado.
+listado v: (vanilla,195) (vinegar,56)
+unidades noodles: El producto esta en stock y hay 38 unidades
+unidades onion: El producto esta en stock y hay 73 unidades
+venta spaghetti 11: Venta realizada, stock actualizado.
+compra halibut 47: Compra realizada, stock actualizado.
+venta cucumber 98: Venta realizada, stock actualizado.
+listado k: 
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,119) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,101) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,4) (hamburger,54) (herring,57) (hot_chocolate,105) (juice,30) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,212) (mashed_potatoes,102) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,172) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,6) (pear,44) (pepper,66) (pineapple,46) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,19) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,60) (salad_dressing,126) (salmon,26) (salt,305) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,134) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades apple: El producto esta en stock y hay 61 unidades
+unidades artichoke: El producto esta en stock y hay 114 unidades
+unidades shrimp: El producto esta en stock y hay 21 unidades
+venta salt 34: Venta realizada, stock actualizado.
+unidades cumin: El producto esta en stock y hay 21 unidades
+unidades peach: El producto esta en stock y hay 6 unidades
+listado j: (juice,30)
+venta coffee 55: Venta fallida: no hay suficientes unidades del producto para vender
+venta clam 92: Venta realizada, stock actualizado.
+compra hot_chocolate 41: Compra realizada, stock actualizado.
+venta cabbage 69: Venta realizada, stock actualizado.
+compra mango 69: Compra realizada, stock actualizado.
+venta tarragon 46: Venta fallida: no hay suficientes unidades del producto para vender
+listado s: (saffron,71) (sage,143) (salad,60) (salad_dressing,126) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,134) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39)
+unidades mashed_potatoes: El producto esta en stock y hay 102 unidades
+compra lamb 26: Compra realizada, stock actualizado.
+venta mashed_potatoes 20: Venta realizada, stock actualizado.
+compra pineapple 72: Compra realizada, stock actualizado.
+unidades vinegar: El producto esta en stock y hay 56 unidades
+compra peach 96: Compra realizada, stock actualizado.
+compra plum 13: Compra realizada, stock actualizado.
+unidades tomato: El producto esta en stock y hay 83 unidades
+compra spaghetti 68: Compra realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,77) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,4) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,106) (mustard,172) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,136) (oyster,30) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,60) (salad_dressing,126) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,202) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,13) (tarragon,8) (tea,91) (thyme,38) (tomato,83) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra tomato 44: Compra realizada, stock actualizado.
+compra lemonade 80: Compra realizada, stock actualizado.
+unidades onion: El producto esta en stock y hay 73 unidades
+venta spaghetti 60: Venta realizada, stock actualizado.
+listado p: (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5)
+venta mussel 31: Venta realizada, stock actualizado.
+venta curry 6: Venta realizada, stock actualizado.
+unidades mango: El producto esta en stock y hay 281 unidades
+unidades asparagus: El producto esta en stock y hay 18 unidades
+unidades halibut: El producto esta en stock y hay 203 unidades
+compra tangerine 12: Compra realizada, stock actualizado.
+venta orange_juice 91: Venta realizada, stock actualizado.
+unidades pumpkin: El producto esta en stock y hay 5 unidades
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,14) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,141) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,4) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,75) (mustard,172) (noodles,38) (nutmeg,21) (octopus,182) (onion,73) (orange,13) (orange_juice,45) (oyster,30) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,60) (salad_dressing,126) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,1) (swordfish,39) (tangerine,25) (tarragon,8) (tea,91) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta onion 37: Venta realizada, stock actualizado.
+unidades vinegar: El producto esta en stock y hay 56 unidades
+compra champagne 71: Compra realizada, stock actualizado.
+unidades pizza: El producto esta en stock y hay 40 unidades
+compra sugar 35: Compra realizada, stock actualizado.
+venta chick_peas 49: Venta realizada, stock actualizado.
+unidades apple_juice: El producto esta en stock y hay 34 unidades
+unidades mushrooms: El producto esta en stock y hay 191 unidades
+venta noodles 13: Venta realizada, stock actualizado.
+compra salad_dressing 88: Compra realizada, stock actualizado.
+compra tea 14: Compra realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,4) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,45) (oyster,30) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,60) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta cucumber 84: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,39) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,1) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,4) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,45) (oyster,30) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,129) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,60) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,21) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,195) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra orange_juice 66: Compra realizada, stock actualizado.
+unidades potato: El producto esta en stock y hay 50 unidades
+compra beans 75: Compra realizada, stock actualizado.
+venta raspberry 55: Venta realizada, stock actualizado.
+unidades salad_dressing: El producto esta en stock y hay 214 unidades
+venta vanilla 45: Venta realizada, stock actualizado.
+compra salad 97: Compra realizada, stock actualizado.
+unidades clam: El producto esta en stock y hay 9 unidades
+unidades watermelon: El producto esta en stock y hay 38 unidades
+compra ham 99: Compra realizada, stock actualizado.
+unidades cucumber: El producto esta en stock y hay 11 unidades
+venta asparagus 69: Venta fallida: no hay suficientes unidades del producto para vender
+compra brine 88: Compra realizada, stock actualizado.
+unidades ginger: El producto esta en stock y hay 100 unidades
+compra shrimp 35: Compra realizada, stock actualizado.
+compra oyster 95: Compra realizada, stock actualizado.
+unidades mustard: El producto esta en stock y hay 172 unidades
+unidades ginger: El producto esta en stock y hay 100 unidades
+unidades ginger: El producto esta en stock y hay 100 unidades
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,142) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,157) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta pink_lemonade 92: Venta realizada, stock actualizado.
+listado: (apple,61) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,69) (cabbage,50) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,230) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,8) (fig,13) (fried_chicken,116) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,36) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,53) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,71) (sage,143) (salad,157) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta cod 30: Venta fallida: no hay suficientes unidades del producto para vender
+compra eggplant 35: Compra realizada, stock actualizado.
+compra saffron 61: Compra realizada, stock actualizado.
+venta ground_meat 85: Venta fallida: no hay suficientes unidades del producto para vender
+compra melon 17: Compra realizada, stock actualizado.
+venta cinnamon 19: Venta realizada, stock actualizado.
+compra rhubarb 37: Compra realizada, stock actualizado.
+compra fried_chicken 90: Compra realizada, stock actualizado.
+listado d: (dill,16)
+compra cabbage 29: Compra realizada, stock actualizado.
+compra salad 70: Compra realizada, stock actualizado.
+unidades noodles: El producto esta en stock y hay 25 unidades
+compra apple 98: Compra realizada, stock actualizado.
+venta tangerine 41: Venta fallida: no hay suficientes unidades del producto para vender
+listado x: 
+venta carrot 44: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (apple,159) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,69) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+listado: (apple,159) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,69) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,35) (roastbeef,21) (rosemary,51) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades chard: El producto esta en stock y hay 99 unidades
+listado m: (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,75) (mustard,172)
+compra rosemary 14: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,34) (artichoke,114) (asparagus,18) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,69) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,35) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,22) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades onion: El producto esta en stock y hay 36 unidades
+venta asparagus 15: Venta realizada, stock actualizado.
+compra broad_beans 38: Compra realizada, stock actualizado.
+compra trout 55: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,34) (artichoke,114) (asparagus,3) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,107) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,85) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,203) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,82) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,75) (mustard,172) (noodles,25) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,74) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,35) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,56) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra ribs 48: Compra realizada, stock actualizado.
+compra mashed_potatoes 41: Compra realizada, stock actualizado.
+unidades capers: El producto esta en stock y hay 14 unidades
+unidades cinnamon: El producto esta en stock y hay 211 unidades
+unidades saffron: El producto esta en stock y hay 132 unidades
+unidades baked_potatoes: El producto esta en stock y hay 7 unidades
+venta mussel 12: Venta realizada, stock actualizado.
+venta champagne 63: Venta realizada, stock actualizado.
+compra halibut 71: Compra realizada, stock actualizado.
+compra asparagus 25: Compra realizada, stock actualizado.
+compra raspberry 35: Compra realizada, stock actualizado.
+unidades salt: El producto esta en stock y hay 271 unidades
+compra shrimp 30: Compra realizada, stock actualizado.
+unidades water: El producto esta en stock y hay 24 unidades
+compra raspberry 37: Compra realizada, stock actualizado.
+unidades curry: El producto esta en stock y hay 71 unidades
+venta chick_peas 94: Venta fallida: no hay suficientes unidades del producto para vender
+compra noodles 98: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,34) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,73) (basil,44) (beans,114) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,89) (broad_beans,107) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,274) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,80) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,123) (mayonnaise,21) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,172) (noodles,123) (nutmeg,21) (octopus,182) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,50) (potato_chips,71) (pumpkin,5) (raspberry,146) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,26) (salt,271) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,8) (tea,105) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra potato 99: Compra realizada, stock actualizado.
+compra apple_juice 13: Compra realizada, stock actualizado.
+unidades cabbage: El producto esta en stock y hay 79 unidades
+listado e: (eel,74) (eggplant,43)
+venta banana 63: Venta realizada, stock actualizado.
+compra brine 82: Compra realizada, stock actualizado.
+unidades salmon: El producto esta en stock y hay 26 unidades
+compra mayonnaise 75: Compra realizada, stock actualizado.
+venta halibut 15: Venta realizada, stock actualizado.
+compra salmon 90: Compra realizada, stock actualizado.
+compra steak 47: Compra realizada, stock actualizado.
+venta octopus 11: Venta realizada, stock actualizado.
+listado p: (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,71) (pumpkin,5)
+listado j: (juice,30)
+compra tea 68: Compra realizada, stock actualizado.
+unidades fig: El producto esta en stock y hay 13 unidades
+venta beans 3: Venta realizada, stock actualizado.
+venta tarragon 97: Venta fallida: no hay suficientes unidades del producto para vender
+compra tarragon 29: Compra realizada, stock actualizado.
+unidades vinegar: El producto esta en stock y hay 56 unidades
+listado x: 
+compra salt 72: Compra realizada, stock actualizado.
+venta lemonade 18: Venta realizada, stock actualizado.
+unidades pomegranate: El producto esta en stock y hay 105 unidades
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,44) (beans,111) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,71) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,123) (mayonnaise,96) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,172) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,71) (pumpkin,5) (raspberry,146) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,116) (salt,343) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,37) (tea,173) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+compra beans 69: Compra realizada, stock actualizado.
+compra curry 65: Compra realizada, stock actualizado.
+listado b: (baked_potatoes,7) (banana,10) (basil,44) (beans,180) (beef_steak,114) (beer,52) (beet,89) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107)
+venta beet 75: Venta realizada, stock actualizado.
+compra raspberry 50: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,44) (beans,180) (beef_steak,114) (beer,52) (beet,14) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,126) (capers,14) (carrot,33) (cauliflower,186) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,103) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,281) (mashed_potatoes,123) (mayonnaise,96) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,172) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,71) (pumpkin,5) (raspberry,196) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,116) (salt,343) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,37) (tea,173) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,62) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+unidades basil: El producto esta en stock y hay 44 unidades
+compra turnip 94: Compra realizada, stock actualizado.
+venta mango 55: Venta realizada, stock actualizado.
+venta sugar 65: Venta fallida: no hay suficientes unidades del producto para vender
+unidades salad: El producto esta en stock y hay 227 unidades
+venta mayonnaise 55: Venta realizada, stock actualizado.
+venta eel 87: Venta fallida: no hay suficientes unidades del producto para vender
+venta ham 87: Venta realizada, stock actualizado.
+compra capers 61: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,44) (beans,180) (beef_steak,114) (beer,52) (beet,14) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,126) (capers,75) (carrot,33) (cauliflower,186) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,3) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,206) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,226) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,172) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,125) (parsley,146) (peach,102) (pear,44) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,71) (pumpkin,5) (raspberry,196) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,143) (salad,227) (salad_dressing,214) (salmon,116) (salt,343) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,37) (tea,173) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,24) (watercress,58) (watermelon,38) (white_wine,12)
+venta parsley 79: Venta realizada, stock actualizado.
+venta raspberry 98: Venta realizada, stock actualizado.
+venta mustard 42: Venta realizada, stock actualizado.
+venta oyster 85: Venta realizada, stock actualizado.
+compra potato_chips 64: Compra realizada, stock actualizado.
+compra raspberry 42: Compra realizada, stock actualizado.
+compra fried_chicken 47: Compra realizada, stock actualizado.
+compra water 3: Compra realizada, stock actualizado.
+compra cider 67: Compra realizada, stock actualizado.
+compra beet 51: Compra realizada, stock actualizado.
+venta sage 39: Venta realizada, stock actualizado.
+unidades vinegar: El producto esta en stock y hay 56 unidades
+compra salad 94: Compra realizada, stock actualizado.
+compra can_of_coke 71: Compra realizada, stock actualizado.
+listado w: (water,27) (watercress,58) (watermelon,38) (white_wine,12)
+venta pear 33: Venta realizada, stock actualizado.
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,44) (beans,180) (beef_steak,114) (beer,52) (beet,65) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,197) (capers,75) (carrot,33) (cauliflower,186) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,70) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,253) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,226) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,130) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,40) (parsley,67) (peach,102) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,135) (pumpkin,5) (raspberry,140) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,104) (salad,321) (salad_dressing,214) (salmon,116) (salt,343) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,37) (tea,173) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,27) (watercress,58) (watermelon,38) (white_wine,12)
+compra cauliflower 89: Compra realizada, stock actualizado.
+venta mango 68: Venta realizada, stock actualizado.
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,44) (beans,180) (beef_steak,114) (beer,52) (beet,65) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,197) (capers,75) (carrot,33) (cauliflower,275) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,92) (chilli,92) (cider,70) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,21) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,253) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,146) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,158) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,130) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,40) (parsley,67) (peach,102) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,135) (pumpkin,5) (raspberry,140) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,104) (salad,321) (salad_dressing,214) (salmon,116) (salt,343) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,39) (tangerine,25) (tarragon,37) (tea,173) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,27) (watercress,58) (watermelon,38) (white_wine,12)
+venta pink_lemonade 79: Venta fallida: no hay suficientes unidades del producto para vender
+venta peach 56: Venta realizada, stock actualizado.
+compra cumin 51: Compra realizada, stock actualizado.
+unidades ravioli: El producto esta en stock y hay 107 unidades
+unidades basil: El producto esta en stock y hay 44 unidades
+venta chick_peas 66: Venta realizada, stock actualizado.
+compra salt 53: Compra realizada, stock actualizado.
+compra swordfish 5: Compra realizada, stock actualizado.
+compra water 5: Compra realizada, stock actualizado.
+venta water 57: Venta fallida: no hay suficientes unidades del producto para vender
+compra hot_chocolate 33: Compra realizada, stock actualizado.
+compra basil 16: Compra realizada, stock actualizado.
+venta tea 78: Venta realizada, stock actualizado.
+compra watercress 98: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,47) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,60) (beans,180) (beef_steak,114) (beer,52) (beet,65) (bell_pepper,15) (blackberry,93) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,197) (capers,75) (carrot,33) (cauliflower,275) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,26) (chilli,92) (cider,70) (cinnamon,211) (clam,9) (clove,75) (coconuts,17) (cod,24) (coffee,45) (cucumber,11) (cumin,72) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,253) (ginger,100) (grapes,50) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,179) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,158) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,130) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,40) (parsley,67) (peach,46) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,135) (pumpkin,5) (raspberry,140) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,83) (roastbeef,21) (rosemary,65) (saffron,132) (sage,104) (salad,321) (salad_dressing,214) (salmon,116) (salt,396) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,86) (snail,65) (spaghetti,142) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,44) (tangerine,25) (tarragon,37) (tea,95) (thyme,38) (tomato,127) (tomato_juice,145) (tomato_sauce,8) (trout,77) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,32) (watercress,156) (watermelon,38) (white_wine,12)
+unidades eggplant: El producto esta en stock y hay 43 unidades
+unidades ravioli: El producto esta en stock y hay 107 unidades
+venta shrimp 78: Venta realizada, stock actualizado.
+venta peach 39: Venta realizada, stock actualizado.
+compra ribs 18: Compra realizada, stock actualizado.
+unidades chick_peas: El producto esta en stock y hay 26 unidades
+compra basil 26: Compra realizada, stock actualizado.
+unidades pork_chops: El producto esta en stock y hay 173 unidades
+venta tomato 51: Venta realizada, stock actualizado.
+venta spaghetti 80: Venta realizada, stock actualizado.
+unidades pepper: El producto esta en stock y hay 66 unidades
+venta trout 72: Venta realizada, stock actualizado.
+unidades grapes: El producto esta en stock y hay 50 unidades
+compra blackberry 47: Compra realizada, stock actualizado.
+venta strawberry 39: Venta fallida: no hay suficientes unidades del producto para vender
+compra beef_steak 64: Compra realizada, stock actualizado.
+compra apple_juice 45: Compra realizada, stock actualizado.
+compra grapes 17: Compra realizada, stock actualizado.
+compra coconuts 63: Compra realizada, stock actualizado.
+compra swordfish 41: Compra realizada, stock actualizado.
+venta orange 14: Venta fallida: no hay suficientes unidades del producto para vender
+unidades mushrooms: El producto esta en stock y hay 191 unidades
+venta cinnamon 9: Venta realizada, stock actualizado.
+compra capers 13: Compra realizada, stock actualizado.
+unidades celery: El producto esta en stock y hay 23 unidades
+listado: (apple,159) (apple_juice,92) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,86) (beans,180) (beef_steak,178) (beer,52) (beet,65) (bell_pepper,15) (blackberry,140) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,197) (capers,88) (carrot,33) (cauliflower,275) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,26) (chilli,92) (cider,70) (cinnamon,202) (clam,9) (clove,75) (coconuts,80) (cod,24) (coffee,45) (cucumber,11) (cumin,72) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,253) (ginger,100) (grapes,67) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,179) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,158) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,130) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,40) (parsley,67) (peach,7) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,135) (pumpkin,5) (raspberry,140) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,101) (roastbeef,21) (rosemary,65) (saffron,132) (sage,104) (salad,321) (salad_dressing,214) (salmon,116) (salt,396) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,8) (snail,65) (spaghetti,62) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,85) (tangerine,25) (tarragon,37) (tea,95) (thyme,38) (tomato,76) (tomato_juice,145) (tomato_sauce,8) (trout,5) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,32) (watercress,156) (watermelon,38) (white_wine,12)
+compra tarragon 18: Compra realizada, stock actualizado.
+compra mustard 50: Compra realizada, stock actualizado.
+listado: (apple,159) (apple_juice,92) (artichoke,114) (asparagus,28) (baked_potatoes,7) (banana,10) (basil,86) (beans,180) (beef_steak,178) (beer,52) (beet,65) (bell_pepper,15) (blackberry,140) (brine,171) (broad_beans,107) (cabbage,79) (can_of_coke,197) (capers,88) (carrot,33) (cauliflower,275) (celery,23) (champagne,22) (chard,99) (cheese,13) (cheeseburger,65) (cherry,3) (chick_peas,26) (chilli,92) (cider,70) (cinnamon,202) (clam,9) (clove,75) (coconuts,80) (cod,24) (coffee,45) (cucumber,11) (cumin,72) (curry,136) (dill,16) (eel,74) (eggplant,43) (fig,13) (fried_chicken,253) (ginger,100) (grapes,67) (ground_meat,10) (halibut,259) (ham,16) (hamburger,54) (herring,57) (hot_chocolate,179) (juice,30) (lamb,26) (lemonade,62) (lentils,53) (lime,64) (lobster,70) (macaroni,135) (mango,158) (mashed_potatoes,123) (mayonnaise,41) (meatballs,34) (melon,53) (mushrooms,191) (mussel,63) (mustard,180) (noodles,123) (nutmeg,21) (octopus,171) (onion,36) (orange,13) (orange_juice,111) (oyster,40) (parsley,67) (peach,7) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,135) (pumpkin,5) (raspberry,140) (ravioli,107) (red_wine,44) (rhubarb,90) (ribs,101) (roastbeef,21) (rosemary,65) (saffron,132) (sage,104) (salad,321) (salad_dressing,214) (salmon,116) (salt,396) (sardines,87) (scrambled_eggs,95) (shark,63) (shrimp,8) (snail,65) (spaghetti,62) (spinach,70) (squid,62) (steak,47) (strawberry,35) (sugar,36) (swordfish,85) (tangerine,25) (tarragon,55) (tea,95) (thyme,38) (tomato,76) (tomato_juice,145) (tomato_sauce,8) (trout,5) (tuna,19) (turnip,156) (vanilla,150) (vinegar,56) (water,32) (watercress,156) (watermelon,38) (white_wine,12)
+venta tuna 54: Venta fallida: no hay suficientes unidades del producto para vender
+venta potato_chips 4: Venta realizada, stock actualizado.
+venta salmon 20: Venta realizada, stock actualizado.
+listado a: (apple,159) (apple_juice,92) (artichoke,114) (asparagus,28)
+venta beans 79: Venta realizada, stock actualizado.
+unidades beans: El producto esta en stock y hay 101 unidades
+compra chilli 18: Compra realizada, stock actualizado.
+unidades tomato: El producto esta en stock y hay 76 unidades
+listado p: (parsley,67) (peach,7) (pear,11) (pepper,66) (pineapple,118) (pineapple_juice,16) (pink_lemonade,50) (pizza,40) (plum,32) (pomegranate,105) (pork_chops,173) (potato,149) (potato_chips,131) (pumpkin,5)
+unidades saffron: El producto esta en stock y hay 132 unidades
+compra lamb 95: Compra realizada, stock actualizado.
+unidades fig: El producto esta en stock y hay 13 unidades
+compra tuna 58: Compra realizada, stock actualizado.
+venta fig 62: Venta fallida: no hay suficientes unidades del producto para vender
+unidades ginger: El producto esta en stock y hay 100 unidades
+compra apple_juice 51: Compra realizada, stock actualizado.
+compra cauliflower 19: Compra realizada, stock actualizado.
+unidades tuna: El producto esta en stock y hay 77 unidades
+compra broad_beans 42: Compra realizada, stock actualizado.
+venta raspberry 29: Venta realizada, stock actualizado.
+unidades pepper: El producto esta en stock y hay 66 unidades
+compra water 21: Compra realizada, stock actualizado.
+listado d: (dill,16)
+compra salt 26: Compra realizada, stock actualizado.
+venta nutmeg 85: Venta fallida: no hay suficientes unidades del producto para vender
+venta lobster 38: Venta realizada, stock actualizado.
+compra thyme 37: Compra realizada, stock actualizado.
+compra beans 19: Compra realizada, stock actualizado.
+venta ravioli 63: Venta realizada, stock actualizado.
+compra coffee 74: Compra realizada, stock actualizado.
+unidades beans: El producto esta en stock y hay 120 unidades
+compra eel 19: Compra realizada, stock actualizado.

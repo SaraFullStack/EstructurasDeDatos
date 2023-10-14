@@ -1,0 +1,109 @@
+venta fennel 9: Venta fallida: el producto nunca ha estado en stock
+listado h: 
+venta orange_juice 63: Venta fallida: el producto nunca ha estado en stock
+venta juice 9: Venta fallida: el producto nunca ha estado en stock
+compra salt 50: Compra realizada, stock actualizado.
+compra onion 97: Compra realizada, stock actualizado.
+unidades salt: El producto esta en stock y hay 50 unidades
+compra carrot 59: Compra realizada, stock actualizado.
+venta onion 98: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (carrot,59) (onion,97) (salt,50)
+venta onion 80: Venta realizada, stock actualizado.
+listado: (carrot,59) (onion,17) (salt,50)
+unidades onion: El producto esta en stock y hay 17 unidades
+unidades salad: Error: el producto nunca ha estado en stock
+unidades onion: El producto esta en stock y hay 17 unidades
+listado f: 
+venta carrot 86: Venta fallida: no hay suficientes unidades del producto para vender
+unidades herring: Error: el producto nunca ha estado en stock
+venta salt 10: Venta realizada, stock actualizado.
+venta salt 38: Venta realizada, stock actualizado.
+compra cauliflower 58: Compra realizada, stock actualizado.
+venta salt 62: Venta fallida: no hay suficientes unidades del producto para vender
+compra macaroni 63: Compra realizada, stock actualizado.
+compra cod 29: Compra realizada, stock actualizado.
+unidades cauliflower: El producto esta en stock y hay 58 unidades
+unidades salt: El producto esta en stock y hay 2 unidades
+unidades macaroni: El producto esta en stock y hay 63 unidades
+unidades carrot: El producto esta en stock y hay 59 unidades
+compra sage 56: Compra realizada, stock actualizado.
+venta cod 60: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (carrot,59) (cauliflower,58) (cod,29) (macaroni,63) (onion,17) (sage,56) (salt,2)
+unidades onion: El producto esta en stock y hay 17 unidades
+compra pumpkin 85: Compra realizada, stock actualizado.
+venta macaroni 54: Venta realizada, stock actualizado.
+compra fig 100: Compra realizada, stock actualizado.
+unidades cheeseburger: Error: el producto nunca ha estado en stock
+venta onion 63: Venta fallida: no hay suficientes unidades del producto para vender
+compra tarragon 76: Compra realizada, stock actualizado.
+compra garlic 85: Compra realizada, stock actualizado.
+compra dill 56: Compra realizada, stock actualizado.
+unidades dill: El producto esta en stock y hay 56 unidades
+unidades dill: El producto esta en stock y hay 56 unidades
+venta carrot 61: Venta fallida: no hay suficientes unidades del producto para vender
+unidades garlic: El producto esta en stock y hay 85 unidades
+compra french_fries 67: Compra realizada, stock actualizado.
+compra noodles 50: Compra realizada, stock actualizado.
+compra pink_lemonade 4: Compra realizada, stock actualizado.
+venta french_fries 11: Venta realizada, stock actualizado.
+compra nutmeg 52: Compra realizada, stock actualizado.
+unidades pumpkin: El producto esta en stock y hay 85 unidades
+unidades cauliflower: El producto esta en stock y hay 58 unidades
+compra macaroni 63: Compra realizada, stock actualizado.
+venta cumin 76: Venta fallida: el producto nunca ha estado en stock
+unidades beet: Error: el producto nunca ha estado en stock
+unidades macaroni: El producto esta en stock y hay 72 unidades
+compra strawberry 97: Compra realizada, stock actualizado.
+venta chick_peas 59: Venta fallida: el producto nunca ha estado en stock
+venta cod 92: Venta fallida: no hay suficientes unidades del producto para vender
+compra bell_pepper 44: Compra realizada, stock actualizado.
+compra herring 31: Compra realizada, stock actualizado.
+unidades mango: Error: el producto nunca ha estado en stock
+venta carrot 37: Venta realizada, stock actualizado.
+venta macaroni 58: Venta realizada, stock actualizado.
+listado y: 
+venta pumpkin 73: Venta realizada, stock actualizado.
+unidades pink_lemonade: El producto esta en stock y hay 4 unidades
+listado: (bell_pepper,44) (carrot,22) (cauliflower,58) (cod,29) (dill,56) (fig,100) (french_fries,56) (garlic,85) (herring,31) (macaroni,14) (noodles,50) (nutmeg,52) (onion,17) (pink_lemonade,4) (pumpkin,12) (sage,56) (salt,2) (strawberry,97) (tarragon,76)
+venta french_fries 65: Venta fallida: no hay suficientes unidades del producto para vender
+compra salmon 18: Compra realizada, stock actualizado.
+venta macaroni 15: Venta fallida: no hay suficientes unidades del producto para vender
+venta macaroni 28: Venta fallida: no hay suficientes unidades del producto para vender
+listado: (bell_pepper,44) (carrot,22) (cauliflower,58) (cod,29) (dill,56) (fig,100) (french_fries,56) (garlic,85) (herring,31) (macaroni,14) (noodles,50) (nutmeg,52) (onion,17) (pink_lemonade,4) (pumpkin,12) (sage,56) (salmon,18) (salt,2) (strawberry,97) (tarragon,76)
+unidades bell_pepper: El producto esta en stock y hay 44 unidades
+listado: (bell_pepper,44) (carrot,22) (cauliflower,58) (cod,29) (dill,56) (fig,100) (french_fries,56) (garlic,85) (herring,31) (macaroni,14) (noodles,50) (nutmeg,52) (onion,17) (pink_lemonade,4) (pumpkin,12) (sage,56) (salmon,18) (salt,2) (strawberry,97) (tarragon,76)
+listado: (bell_pepper,44) (carrot,22) (cauliflower,58) (cod,29) (dill,56) (fig,100) (french_fries,56) (garlic,85) (herring,31) (macaroni,14) (noodles,50) (nutmeg,52) (onion,17) (pink_lemonade,4) (pumpkin,12) (sage,56) (salmon,18) (salt,2) (strawberry,97) (tarragon,76)
+unidades beet: Error: el producto nunca ha estado en stock
+venta strawberry 39: Venta realizada, stock actualizado.
+compra macaroni 6: Compra realizada, stock actualizado.
+unidades macaroni: El producto esta en stock y hay 20 unidades
+compra orange_juice 40: Compra realizada, stock actualizado.
+compra turnip 83: Compra realizada, stock actualizado.
+venta cod 67: Venta fallida: no hay suficientes unidades del producto para vender
+compra tarragon 12: Compra realizada, stock actualizado.
+listado b: (bell_pepper,44)
+venta cauliflower 78: Venta fallida: no hay suficientes unidades del producto para vender
+venta potato 55: Venta fallida: el producto nunca ha estado en stock
+compra juice 10: Compra realizada, stock actualizado.
+venta strawberry 96: Venta fallida: no hay suficientes unidades del producto para vender
+venta pink_lemonade 85: Venta fallida: no hay suficientes unidades del producto para vender
+venta macaroni 100: Venta fallida: no hay suficientes unidades del producto para vender
+compra macaroni 98: Compra realizada, stock actualizado.
+listado m: (macaroni,118)
+listado a: 
+venta herring 78: Venta fallida: no hay suficientes unidades del producto para vender
+unidades onion: El producto esta en stock y hay 17 unidades
+venta ketchup 91: Venta fallida: el producto nunca ha estado en stock
+unidades bell_pepper: El producto esta en stock y hay 44 unidades
+venta cauliflower 91: Venta fallida: no hay suficientes unidades del producto para vender
+compra asparagus 53: Compra realizada, stock actualizado.
+compra red_wine 49: Compra realizada, stock actualizado.
+compra carrot 41: Compra realizada, stock actualizado.
+venta carrot 39: Venta realizada, stock actualizado.
+unidades fig: El producto esta en stock y hay 100 unidades
+venta macaroni 43: Venta realizada, stock actualizado.
+unidades onion: El producto esta en stock y hay 17 unidades
+unidades macaroni: El producto esta en stock y hay 75 unidades
+listado d: (dill,56)
+unidades sage: El producto esta en stock y hay 56 unidades
+venta macaroni 15: Venta realizada, stock actualizado.
